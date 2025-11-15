@@ -25,7 +25,7 @@
 		"expected": "常驻活动",
 		"action": "LongPress",
 		"duration": 20,
-		//"post_delay": 1000,
+  //"post_delay": 1500,
 		"post_wait_freezes": 1,
 		"next": [
 			"捡垃圾_滑动到裂变链接",
@@ -36,7 +36,7 @@
 		"action": "Swipe",
 		"begin": [250, 655, 1, 1],
 		"end": [248, 600, 1, 1],
-		//"post_delay": 1500,
+  //"post_delay": 1500,
 		"post_wait_freezes": 1,
 		"next": [
 			"捡垃圾_点击裂变链接",

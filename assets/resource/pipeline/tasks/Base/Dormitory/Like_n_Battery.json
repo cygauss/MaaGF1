@@ -80,7 +80,7 @@
 		"roi": [89, 370, 329, 88],
 		"green_mask": true,
 		"rate_limit": 100,
-		"template": "dormitory/Gbattery.png"
+		"template": "dormitory/Gbattery1.png"
 		"action": "LongPress",
 		"duration": 20,
 		"threshold": 0.75,

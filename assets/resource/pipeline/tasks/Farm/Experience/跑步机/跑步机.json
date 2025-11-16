@@ -44,8 +44,8 @@
 		"recognition": "OCR",
 		"roi": [182, 95, 136, 624],
 		"expected": "魔方行动",
-		"action":"DoNothing",
-		"next":[
+		"action": "DoNothing",
+		"next": [
 			"跑步机_进入裂变链接",
 			"跑步机_点击裂变链接",
 			"跑步机_滑动到裂变链接"

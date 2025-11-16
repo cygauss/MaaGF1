@@ -45,7 +45,7 @@
 		"recognition": "OCR",
 		"roi": [182, 95, 136, 624],
 		"expected": "裂变链接",
-		"inverse":true,		
+		"inverse": true,
 		"action": "Swipe",
 		"begin": [250, 655, 1, 1],
 		"end": [250, 500, 1, 1],

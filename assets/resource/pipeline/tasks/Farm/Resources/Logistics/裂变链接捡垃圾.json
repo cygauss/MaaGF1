@@ -32,9 +32,9 @@
 		"expected": "常驻活动",
 		"action": "LongPress",
 		"duration": 20,
-		"post_wait_freezes":{
-			"time":100,
-			"target":[182, 95, 136, 624]
+		"post_wait_freezes": {
+			"time": 100,
+			"target": [182, 95, 136, 624]
 		},
 		"next": [
 			"裂变链接捡垃圾_确认进入常驻",
